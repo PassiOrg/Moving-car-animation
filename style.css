@@ -34,7 +34,6 @@ body{
     height: 60vh;
     width: 800vw;
     background: url(track.png);
-    /* background-size: cover; */
     background-repeat: repeat-x;
     position: absolute;
     top: 70vh;
